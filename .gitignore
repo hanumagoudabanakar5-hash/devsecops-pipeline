@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+*.sarif
+.env
+.env.local
+*.log
+dist/
+build/
